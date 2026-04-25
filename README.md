@@ -11,6 +11,9 @@ To be more specific:
 - numbers that are divisible by five get replaced with 'bop',
 - numbers that are divisible by both three and five get replaced with 'beebop'.
 
+## Python
+Numberguessing is a tiny game that prompts the user for numbers until the answer is the correct number that we were looking for.
+
 ## No (Unit-)tests?
 This is just a small demo of my programming skills. 
 I know that testing is an important part of developing software. 
